@@ -1,7 +1,42 @@
+# Virtual environment
+venv/
+
+# Python cache
 __pycache__/
-.env
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (raw and processed)
 data/raw/
 data/processed/
-*.pyc
-.DS_Store
+
+# Weird temp files from your folder
+25.3
+=1.23.2
+=1.5
+=2020.1
+=2022.7
+
+# Other temporary Python files
+*.log
+*.tmp
+*.swp
+
+# Ignore New Python File if it’s not needed
+src/New Python File.py
