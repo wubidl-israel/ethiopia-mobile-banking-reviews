@@ -1,0 +1,4 @@
+google-play-scraper==1.0.3
+pandas>=1.5
+python-dateutil
+tqdm
