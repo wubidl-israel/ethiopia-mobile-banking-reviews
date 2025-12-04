@@ -1,0 +1,16 @@
+pandas>=1.4
+numpy
+scikit-learn
+transformers>=4.0
+torch
+sentence-transformers
+nltk
+spacy
+psycopg2-binary
+sqlalchemy
+matplotlib
+seaborn
+wordcloud
+tqdm
+vaderSentiment
+python-dotenv
