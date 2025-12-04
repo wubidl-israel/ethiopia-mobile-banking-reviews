@@ -1,5 +1,4 @@
 # Ethiopia Mobile Banking Reviews
-Methodology, app IDs, and KPIs will go here.
 This project contains a full pipeline for:
 
 Task 1: Data Cleaning & Preprocessing
